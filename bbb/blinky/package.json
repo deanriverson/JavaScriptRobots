@@ -2,7 +2,7 @@
   "name": "blinky",
   "version": "0.0.1",
   "dependencies": {
-    "johnny-five": "latest"
+    "johnny-five": "latest",
     "beaglebone-io": "latest"
   }
 }

@@ -2,6 +2,7 @@
   "name": "input",
   "version": "0.0.1",
   "dependencies": {
-    "johnny-five": "latest"
+    "johnny-five": "latest",
+    "j5-songs": "latest"
   }
 }
