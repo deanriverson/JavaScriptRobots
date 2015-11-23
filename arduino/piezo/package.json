@@ -1,0 +1,8 @@
+{
+  "name": "piezo",
+  "version": "0.0.1",
+  "dependencies": {
+    "johnny-five": "latest",
+    "j5-songs": "latest"
+  }
+}
